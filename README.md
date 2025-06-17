@@ -13,13 +13,12 @@ This profile was designed and created by MadKreator37. All parts were cut and mo
 
 *Special thanks to @BluefinBima for his contributions and assistance as always!*
 
+
 ### IMAGES
-![Screenshot 2025-06-16 191946](https://github.com/user-attachments/assets/c7bfe004-be2e-4c48-9185-725544c11ab5)
-![Screenshot 2025-06-16 191958](https://github.com/user-attachments/assets/f5dda3d0-23fd-4aba-88ba-aed51f08a4cc)
-![Screenshot 2025-06-16 192010](https://github.com/user-attachments/assets/53c934ab-08b5-44c3-85df-85865720d1c7)
-![Screenshot 2025-06-16 192018](https://github.com/user-attachments/assets/c5d57584-4a2f-4f9d-beac-ba09f75d802b)
-
-
+![Screenshot 2025-06-16 191946](https://github.com/user-attachments/assets/eec6e99e-5308-461e-95b4-bef9bc90deab)
+![Screenshot 2025-06-16 191958](https://github.com/user-attachments/assets/259d85e5-d948-4fbf-b0f3-0e3039230154)
+![Screenshot 2025-06-16 192010](https://github.com/user-attachments/assets/f6e45235-e0f0-40da-a9b3-acad40f6ce9c)
+![Screenshot 2025-06-16 192018](https://github.com/user-attachments/assets/8f4c9ffa-a8fd-4c55-b7e5-7c552d94702c)
 
 
 ### Limited Support
