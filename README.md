@@ -1,71 +1,41 @@
-# Helios Profile for FW-190A8 by MadKreator37
-This is a profile for Helios Virtual Cockpit to support the FW-190A8.
+[![CreateHelios16](https://github.com/HeliosProfiles/MadKreator37-FW-190A8-Profile/actions/workflows/BuildProfilePackage.yml/badge.svg)](https://github.com/HeliosProfiles/MadKreator37-FW--190A8-Profile/actions/workflows/BuildProfilePackage.yml)
+# DCS FW-190A8 Helios Profiles by MadKreator37 
+## Download the Profile helios16 package from [the __Assets__ section here](https://github.com/HeliosProfiles/DCS-FW-190A8-Profile-by-MadKreator37/releases/latest)
+This is a Helios profile for [Eagle Dynamics's FW-190A8 for DCS](https://www.digitalcombatsimulator.com/en/products/planes/anton/) designed for DCS World and contributed by @MadKreator37 . 
+This profile utilises an updated set of JSON interfaces which have been contributed to was written into the Helios Virtual Cockpit project called **Helios**.  This can be downloaded from [Helios latest release](https://github.com/HeliosVirtualCockpit/Helios/releases/latest)
 
-### Creating a New Profile
+### IMPORTANT!
+You *MUST* be running Helios 1.6.6130 minimum. Please visit the link above to download the latest releases of both.
 
-#### Login to GitHub
+### ABOUT
+This profile was designed and created by MadKreator37. All parts were cut and modified from the 3D model of the FW-190A8 cockpit. Every piece used is specific to the FW190a8.  
+ *NOTE* The added functions: Keys panel( f-Keys, Briefing, ReArm etc), Kneeboard, Markpoint, Throttle position and Parking Brake functions are made with an English Keyboard format and require the default DCS keybindings for them to work properly. If you have altered any of these or are using a non-english keyboard, then some functions may not work as intended. You may have to bind them to the correct actions in the Keyboard Interface.
 
-Login to the [repositories section](https://github.com/orgs/HeliosProfiles/repositories) of the HeliosProfiles account.
+*Special thanks to @BluefinBima for his contributions and assistance as always!*
 
-Press the "New Repository" button to start creating a new repository.
+### IMAGES
+![Screenshot 2025-06-16 191946](https://github.com/user-attachments/assets/c7bfe004-be2e-4c48-9185-725544c11ab5)
+![Screenshot 2025-06-16 191958](https://github.com/user-attachments/assets/f5dda3d0-23fd-4aba-88ba-aed51f08a4cc)
+![Screenshot 2025-06-16 192010](https://github.com/user-attachments/assets/53c934ab-08b5-44c3-85df-85865720d1c7)
+![Screenshot 2025-06-16 192018](https://github.com/user-attachments/assets/c5d57584-4a2f-4f9d-beac-ba09f75d802b)
 
-![image](https://github.com/HeliosProfiles/Template/assets/18526232/edc49073-6a6f-45d7-8371-7acbc0359e0d)
-
-Make sure you select a template for the new repository, select a representative name using hyphens between words, make it **public** ( required due to permissions), and press "Create Repository".
-![image](https://github.com/user-attachments/assets/b62fe58f-ea8e-41c9-9734-8d15a0c1460f)
 
 
-### Variable Substitution
 
-The following variables appear in directory names, file names, and internally within files.  When the workflow file [InitRepo.yml](.github/workflows/InitRepo.yml) is run, you will be prompted to enter various variable names.
-![image](https://github.com/user-attachments/assets/665654aa-efc2-4473-8ec3-db76c34f8f43).  Once the InitRepo workflow has run successfully, the variable substitions will have been made in the repo and also the workflow which
-runs after each commit.
+### Limited Support
 
-<!--
-```
-env:
-  VEHICLE: _vehicle
-  VEHICLECOMMONNAME: FW-190A8
-  MINHELIOSRELEASE: _minheliosrelease
-  PROFILENAME: FW-190A8_MadKreator37
-  AUTHOR: MadKreator37
-```
+Helios Official/ CaptnZeen [Discord](https://discord.gg/sJZDzmEW)
 
-    1. FW-190A8 eg "F-5E"
-    2. MadKreator37 eg "MadKreator37"
-    3. _minheliosrelease  eg 1.6.6090.0000
-    4. _vehicle eg "F-5E-3"
--->
-Once the workflows have been changed, the InitRepo workflow should be run manually.
+or
 
-Click on **Actions**
-![image](https://github.com/user-attachments/assets/6481faad-ed82-4a7c-9e10-d7f52f121179)
+MadKreator37  [Discord](https://discord.gg/nzyfQr3K)
 
-On the left hand side, select the InitRepo workflow
-![image](https://github.com/user-attachments/assets/8e6af899-a6e5-436e-a76b-959753543d9d)
+### Known Bugs and Issues
+1: Profile MUST be started before entering aircraft... At least fot HOT STARTED flights. If profile is started after hitting "FLY", there is the possibility that the gun atrm/firing lights won't be in sync. This is not a mistake, just a quirk with how the module is coded.
 
-and then click the `Run Workflow` button
-![image](https://github.com/user-attachments/assets/ad241b52-8807-4da3-89cf-fbceea46118b)
 
-and then click the `Run Workflow` button which appears in the pop-up window - making sure that the branch has been set to `main` 
+### Notes
 
-![image](https://github.com/user-attachments/assets/5ae016bb-4aa8-40be-a0d9-28a4b5a6e049)
+-Due to the wide range of displays, monitors, TV's and tablets,  I cannot guarantee exact brightness levels or color accuracy results from user to user. This is not something I have any control of. If you have visual issues (too bright or too dark etc)  please calibrate your display and/or adjust settings in your GPU's software, brightness, contrast, sharpness, gamma, digital vibrance etc. It will probably enhance all other profiles as well. During testing, the profile was used and shown on multiple types, sizes, and resolutions of displays to rule out any "game breaking" visuals. However, please keep in mind that it is impossible for me to account for every scenario.
 
-You will be prompted to enter values for several variables:
-
-![image](https://github.com/user-attachments/assets/665654aa-efc2-4473-8ec3-db76c34f8f43)
-
-## Cloning the Repository to Your local computer
-Press the "Code" button, and navigate to "Local" and then "HTTPS" where you click on the "copy to clipboard" icon.
-
-![image](https://github.com/HeliosProfiles/Template/assets/18526232/64801495-29c7-40c5-9122-32bdbf5825bc)
-
-### Open up the "GitHub Desktop" application and navigate to "File" -> "Clone Repository"
-
-![image](https://github.com/HeliosProfiles/Template/assets/18526232/59e05f17-a8e8-47a7-a5d5-89b7294267d6)
-
-Select "URL" from the "Clone Repository" dialogue and paste the URL you copied from GitHub into the "Respository URL" field.
-Enter the directory where you want the repo to exist on your local machine into the "Local Path" field and then press "Clone".
-
-![image](https://github.com/HeliosProfiles/Template/assets/18526232/c536842c-ca54-45e4-a2f9-5b2b7496ed2a)
-
+-*Remember to always make a back up of files before making changes*
