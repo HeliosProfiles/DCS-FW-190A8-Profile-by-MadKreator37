@@ -20,6 +20,8 @@ This profile was designed and created by MadKreator37. All parts were cut and mo
 ![Screenshot 2025-06-16 192010](https://github.com/user-attachments/assets/f6e45235-e0f0-40da-a9b3-acad40f6ce9c)
 ![Screenshot 2025-06-16 192018](https://github.com/user-attachments/assets/8f4c9ffa-a8fd-4c55-b7e5-7c552d94702c)
 
+### STARTUP VIDEO
+https://youtu.be/phw1iLMstSg
 
 ### Limited Support
 
