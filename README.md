@@ -25,11 +25,12 @@ https://youtu.be/phw1iLMstSg
 
 ### Limited Support
 
-Helios Official/ CaptnZeen [Discord](https://discord.gg/sJZDzmEW)
+Helios Official/ CaptnZeen Discord-- https://discord.gg/VEjZ8RB4u7
 
 or
 
-MadKreator37  [Discord](https://discord.gg/nzyfQr3K)
+MadKreator37 Discord-- https://discord.gg/u8gT7DPHcV
+
 
 ### Known Bugs and Issues
 1: Profile MUST be started before entering aircraft... At least fot HOT STARTED flights. If profile is started after hitting "FLY", there is the possibility that the gun atrm/firing lights won't be in sync. This is not a mistake, just a quirk with how the module is coded.
